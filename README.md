@@ -19,5 +19,5 @@ The following functionalities are completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/8OsD6avA8O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/fuWekqI661.gif' title='My Twiiter App Walkthrough' width='' alt='Video Walkthrough' />
 
