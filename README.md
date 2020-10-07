@@ -1,4 +1,4 @@
-# Project 3 - My Twitter iOS
+My Twitter iOS
 
 **My Twitter** is a basic twitter app to read your tweets.
 
