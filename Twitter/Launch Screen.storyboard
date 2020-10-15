@@ -21,13 +21,13 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My Twitter Feed" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qBT-RY-2rY">
-                                <rect key="frame" x="123.5" y="323.5" width="128" height="20.5"/>
+                                <rect key="frame" x="123.5" y="373.5" width="128" height="20.5"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleHeadline"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="TwitterLogoBlue" translatesAutoresizingMaskIntoConstraints="NO" id="GR5-XG-eLs">
-                                <rect key="frame" x="87" y="160" width="200" height="200"/>
+                                <rect key="frame" x="42" y="187" width="272" height="215"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -35,7 +35,7 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="qBT-RY-2rY" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="8Ui-h7-RkI"/>
-                            <constraint firstItem="qBT-RY-2rY" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="spS-up-Leh"/>
+                            <constraint firstItem="qBT-RY-2rY" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="50" id="spS-up-Leh"/>
                         </constraints>
                     </view>
                 </viewController>
