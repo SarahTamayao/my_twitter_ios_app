@@ -4,7 +4,6 @@
 
 ## Part I
 
-## User Stories
 The user can log in to his/her own twitter account from the app can load latest home timeline.
 
 The following functionalities are completed:
@@ -27,8 +26,6 @@ Here's a walkthrough of implemented user stories:
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-## User Stories
-
 The following **required** functionality is completed:
 
 - [X] User can compose a tweet. (4pts)
@@ -46,4 +43,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/eKIHt9Vgzx.gif' title='Video Walkthrough of Part II' width='' alt='Video Walkthrough' />
-
+<img src='http://g.recordit.co/rv5T8ETy1G.gif' title='Video Walkthrough of Part II' width='' alt='Video Walkthrough' />
